@@ -5,4 +5,4 @@
 🏛️ ECS, IISER Pune  
 📍 Pune, India
 
-<📫 How to reach me: <email / link>>
+📫 How to reach me: amitavadutta.bdn@gmail.com
