@@ -5,5 +5,5 @@
 🏛️ ECS, IISER Pune  
 📍 Pune, India
 
-🌐 Visit [My Homepage](amitavadutta.github.io)
+🌐 Visit [My Homepage](https://sites.google.com/view/geo-amitava/home) \\
 📫 Reach me at amitavadutta.bdn@gmail.com
