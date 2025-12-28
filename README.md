@@ -1,8 +1,8 @@
-## Hi, I'm Amitava Dutta 👋
+## Hi, I'm Amitava 👋
 
 🎓 Doctoral Researcher  
 🌏 Computational Geodynamics Lab  
 🏛️ ECS, IISER Pune  
 📍 Pune, India
 
-📫 How to reach me: <email / link>
+<📫 How to reach me: <email / link>>
