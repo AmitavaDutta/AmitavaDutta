@@ -1,7 +1,7 @@
 ## Hi, I'm Amitava 👋
 
 🎓 Doctoral Researcher  
-🌏 Computational Geodynamics Lab  
+🌏 Computational Geodynamics  
 🏛️ ECS, IISER Pune  
 📍 Pune, India
 
