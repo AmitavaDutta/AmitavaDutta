@@ -5,7 +5,7 @@
 🏛️ ECS, IISER Pune  
 📍 Pune, India
 
-🌐 Visit [My Homepage](https://sites.google.com/view/geo-amitava/home) 
+🌐 Visit [My Homepage](https://amitavadutta.github.io/) 
 
 📫 Reach me at  
 Official: 20263401@students.iiserpune.ac.in  
